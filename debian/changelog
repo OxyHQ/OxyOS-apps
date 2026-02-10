@@ -2,16 +2,16 @@ obapps (0.2.5) unstable; urgency=low
 
   * Upgraded from https://github.com/gCurse/obapps3
 
- -- Ben Young <contact@oxyhq.com>  Sun, 14 May 2023 16:38:16 -0800
+ -- Ben Young <admin@oxy.so>  Sun, 14 May 2023 16:38:16 -0800
 
 obapps (0.2.3) unstable; urgency=low
 
   * Yoinked python3 version from https://github.com/gCurse/obapps3
 
- -- Ben Young <contact@oxyhq.com>  Thu, 22 Apr 2021 13:17:16 -0800
+ -- Ben Young <admin@oxy.so>  Thu, 22 Apr 2021 13:17:16 -0800
 
 obapps (0.1.7) unstable; urgency=low
 
   * Initial release.
 
- -- Ben Young <contact@oxyhq.com>  Wed, 01 May 2019 15:19:03 -0700
+ -- Ben Young <admin@oxy.so>  Wed, 01 May 2019 15:19:03 -0700
