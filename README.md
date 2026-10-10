@@ -2,7 +2,7 @@
 
 [OBApps](https://sourceforge.net/projects/obapps) (by Eric Bohlman) ported to Python 3 and wxPython 4.
 
-A graphical editor for Openbox application settings, packaged for [OxyOS](https://os.oxy.so).
+A graphical editor for Openbox application settings, packaged for [OxyOS](https://oxy.so/os).
 
 ## Installation
 
@@ -40,4 +40,4 @@ Since this code is very preliminary, make sure to back up your `rc.xml` file bef
 See [LICENSE](../blob/master/LICENSE).
 
 ---
-Part of [OxyOS](https://os.oxy.so) | [GitHub](https://github.com/OxyHQ)
+Part of [OxyOS](https://oxy.so/os) | [GitHub](https://github.com/OxyHQ)
